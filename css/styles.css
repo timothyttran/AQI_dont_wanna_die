@@ -13,12 +13,16 @@
 
 .hyperimg {
 
-  height: 150px;
+  height: 50%;
+  max-height: 150px;
   transition: 0.5s;
+  padding-bottom: 10px;
+  filter: grayscale(80%);
 }
 .hyperimg:hover {
   transform: scale(1.2);
-  z-index: 2
+  z-index: 2;
+  filter: none
 }
 
 :root {
@@ -11319,7 +11323,7 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("https://cdn.discordapp.com/attachments/1033450387430178836/1033467218064855100/bad_aqi.jpg") no-repeat center center;
+  background: url("https://cdn.discordapp.com/attachments/1033450387430178836/1033641998629994576/bad_aqi_-_Edited_1.png") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
