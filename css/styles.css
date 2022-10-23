@@ -25,8 +25,8 @@
 }
 
 #ml_section {
-  background-image: url("https://cdn.discordapp.com/attachments/1033450387430178836/1033705420465909802/unknown.png");
   background-size: cover;
+  color: white
 }
 
 :root {
@@ -4077,7 +4077,7 @@ textarea.form-control-lg {
 }
 
 .navbar-brand:hover {
-  text-decoration: underline #f44336;
+  text-decoration: underline #9c8de6;
   transform:scale(1.05);
   z-index:3;
   transition: 0.5s;
