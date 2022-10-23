@@ -4077,7 +4077,7 @@ textarea.form-control-lg {
 }
 
 .navbar-brand:hover {
-  text-decoration: underline #f44336;
+  text-decoration: underline #9c8de6;
   transform:scale(1.05);
   z-index:3;
   transition: 0.5s;
