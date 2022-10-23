@@ -12,8 +12,8 @@
  */
 
 .hyperimg {
-  width: 40%;
-  height: 40%;
+
+  height: 150px;
   transition: 0.5s;
 }
 .hyperimg:hover {
